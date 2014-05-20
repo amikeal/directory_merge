@@ -22,6 +22,6 @@ Example
 -------
 ```merge.py --keep a --clean b```
 
-After execution, 'a' will contain at least all its original files, 
-plus any files from 'b' which did not appear in 'a' beforehand.
-'b' will be empty, all its files having been moved or deleted.
+After execution, `a` will contain at least all its original files, 
+plus any files from `b` which did not appear in `a` beforehand.
+`b` will be empty, all its files having been moved or deleted.
